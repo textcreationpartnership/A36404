@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ezekiel, cap. 2</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36404</idno>
+            <idno type="STC">Wing D1988</idno>
+            <idno type="STC">ESTC R18906</idno>
+            <idno type="EEBO-CITATION">12396420</idno>
+            <idno type="OCLC">ocm 12396420</idno>
+            <idno type="VID">61194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61194)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 937:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ezekiel, cap. 2</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>164-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Attributed to Lady Eleanor. cf. NUC pre-1956.</note>
+                  <note>Caption title.</note>
+                  <note>Cap 3 begins on page 7.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezekiel II.</term>
+               <term>Spiritualism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:61194:1" rendition="simple:additions"/>
+            <head>
+               <hi>Ezekiel, Cap.</hi> 2.</head>
+            <p>WHereas this Viſion, ſtiled <hi>The appearance of the likenes of the glory of the Lord:</hi> whereby as appears then a warning-piece of great <hi>Baby<g ref="char:EOLhyphen"/>lons</hi> preparation, reports ſome grea<g ref="char:EOLhyphen"/>ter judgement of more moment or importance then their Captivity: above all his fellow brethren the Pro<g ref="char:EOLhyphen"/>phets, though then others he no more timorous; nevertheleſſe by ſuch ſeve<g ref="char:EOLhyphen"/>ral admonitions given him, doubtleſs intendeth (no other, or no leſſe) then captivity lead captive, attended with innumerable chariots: The Lord of Hoſts marching on the wing'd winds,
+<pb facs="tcp:61194:2"/>much rather then the King of <hi>Aſſyria</hi> his Army: The great days Alarm ſufficiently viſible.</p>
+            <p>And ſo of theſe vigilant living creatures in this Viſion, This watch<g ref="char:EOLhyphen"/>mans Looking-glaſs, the firſt viſag'd like a Man looking upward, another a Lyons voice, the third the laborious Ox, the fourth for ſpeed to an Eagles ſwiftneſs likened; whoſe faces every way beſides full of eyes before and behinde, other motion none but ſtraight forward, requiſite; in Pro<g ref="char:EOLhyphen"/>phets thoſe watchmen or ſeers eſpe<g ref="char:EOLhyphen"/>cially, who bend their courſe that way, the future the mark they ſhoot at: And having had ſuch a full view of this glorious Viſion, every one ſo many faces, fell on his face, by a voice commanded, <hi>Stand upon thy feet</hi> (to
+<pb n="3" facs="tcp:61194:2"/>wit) <hi>I am the Reſurrections voice,</hi> unlike that of the tempter, <hi>If thou be the Son of God, caſt thy ſelf down:</hi> And where the Devil threw him down, when the evil ſpirit caſt out, thus ſtood up inſtantly, gives him withall to underſtand <hi>(Verſe)</hi> I or<g ref="char:EOLhyphen"/>dain thee one of the order of <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi> my Spirit I have appointed to to enter into thee, and <hi>Jure Divino,</hi> no leſſe, at all points armd with his commiſsion, he with a writ of Re<g ref="char:EOLhyphen"/>bellion to ſerve them, ſaith, <hi>I ſend thee to a rebellious Nation,</hi> Cap. 2. <hi>that have rebelled againſt me: And they, whe<g ref="char:EOLhyphen"/>ther they will hear or forbear,</hi> who ſtop the ear like the deaf Adar, <hi>I ſend thee unto them, ſay thou thus, Thus ſaith the Lord, whether they hearken or refrain, chuſe them, for they a rebellious houſe, yet
+<pb n="4" facs="tcp:61194:3"/>ſhall they know there hath been a Pro<g ref="char:EOLhyphen"/>phet amongſt them,</hi> verſe 5. And thou, be not daunted or diſmaid howſoever they look, of their looks be not a<g ref="char:EOLhyphen"/>fraid, though they a rebellious houſe, leave that to him, the Holy Ghoſt who will not be ſo anſwered, pro<g ref="char:EOLhyphen"/>teſting though <hi>Noah, Daniel</hi> and <hi>Job</hi> were preſent, they ſhould but ſave themſelves.</p>
+            <p>And line upon line, even the Lords own words again and again expreſly, what can be ſaid more plain; then thou ſhalt ſpeak theſe my words unto them notwithſtanding as aforeſaid, whether they will hear or forbear, for they are moſt rebellious: <hi>But thou, hear what J ſay, Be not re<g ref="char:EOLhyphen"/>bellious like that rebellious houſe,</hi> weigh not their favor nor frowns, let them
+<pb n="5" facs="tcp:61194:3"/>know they have been viſited, give them warning howſoever, <hi>Open thy mouth, eat what J give thee; ſtand<g ref="char:EOLhyphen"/>ing on thy feet receive it,</hi> the Reſur<g ref="char:EOLhyphen"/>rection tidings, and as expreſly com<g ref="char:EOLhyphen"/>manded, ſo to a tittle obſerved; of which Angelical food, the Evange<g ref="char:EOLhyphen"/>liſt <hi>John</hi> communicated even the little Book opened, &amp;c. where heard ſuch a noiſe of Trumpets, an Angel the cryer, ſtood roaring like a Lyon, ſo many Thunders uttering their voices, as Drums, a Cryers voice too, he in the Iſle of <hi>Patmos,</hi> in that Deſart, crying, <hi>He that hath an Ear, let him hear what the Spirit ſaith to the Churches, Rev. cap.</hi> 2. <hi>&amp;c.</hi> be<g ref="char:EOLhyphen"/>ſides, <hi>Fighting againſt the Holy Spirit;</hi> forewarning all to beware, proclaims the Iudge of quick and dead his co<g ref="char:EOLhyphen"/>ming;
+<pb n="6" facs="tcp:61194:4"/>and both of theſe agreeing thus in the ſad condition of the time, as it were, not to be awakened, bidden in another place, <hi>Son of man, ſigh with breaking of thy loins, ſmite thy hands, &amp;c.</hi> an end, the end is come upon the four corners of the earth (or land, as ſignifies both) now the end; an e<g ref="char:EOLhyphen"/>vil, an only evil, behold is come: <hi>Thus ſaith the Lord,</hi> Cap. 7. <hi>An end is come, it watcheth for thee, behold it is come,</hi> as it were, all is accompliſhed, the day of Iudgements forerunner is come, ſmothered although by our Over<g ref="char:EOLhyphen"/>ſeers, faſt aſleep for all, as in this Ci<g ref="char:EOLhyphen"/>ty of late, ſome ſleepers (characters of the cariage of the time) women, never the like, awakened not not by the pains of their travel, but as faln aſleep many days before, ſo con<g ref="char:EOLhyphen"/>tinued
+<pb n="7" facs="tcp:61194:4"/>ſtil ſleeping, whileſt in the bed the Babe choked, &amp;c. Another whoſe Arm lay broyling on the fire (lately gone into the Hoſpital) ſhe in the mean while aſleep.</p>
+            <p>Furthermore for whoſe commiſsion before this Prophets being diſmiſſed, thus much without aggravation or augmentation he, unto ſuch an unexpected Banquet invited, being not ſent faſting away, of Lamenta<g ref="char:EOLhyphen"/>tions, Mourning and VVoe ſpread before him.</p>
+         </div>
+         <div type="part">
+            <head>
+               <hi>Cap.</hi> 3.</head>
+            <p>Moreover ſaying, having cauſed him to eat, bidden freely to fill him<g ref="char:EOLhyphen"/>ſelf, &amp;c. <hi>J ſend thee not to the Cotages unto Day-laborers, thoſe of a rude
+<pb n="8" facs="tcp:61194:5" rendition="simple:additions"/>ſpeech, them of thick or great lips; ſurely had J ſent thee unto them they would have hearkned unto thee, and have anſwered.</hi>
+            </p>
+            <p>And with motives and admoni<g ref="char:EOLhyphen"/>tions ſuch, this Meſſenger of his prepared; and this no news, of a Prophet to be leaſt honored where beſt known; for the moſt part there diſhonored moſt: Even theſe the Lords gracious warning, his words expreſly ſhall go on with them.</p>
+            <p>Saying, <hi>Go, get thee to the houſe, ſpeak with my words unto them: who hardly will hearken to thee,</hi> receive thy teſtimony, whom neither peſtilence, the like unheard of; the ſword, Bro<g ref="char:EOLhyphen"/>ther againſt Brother, Children a<g ref="char:EOLhyphen"/>gainſt their Father; Famine, evil Spi<g ref="char:EOLhyphen"/>rits grown familiar acquaintance, as
+<pb n="9" facs="tcp:61194:5" rendition="simple:additions"/>though Satan now faln from Hea<g ref="char:EOLhyphen"/>ven: And thus mixt new and old like a Scribe in both inſtructed, &amp;c. proceeding with the Commiſ<g ref="char:EOLhyphen"/>ſion ſaying farther, for as ſteel they be of a ſtiff forehead; But thy face I have made ſtrong againſt their faces, and thy forehead a<g ref="char:EOLhyphen"/>gainſt their foreheads, as an <hi>Ada<g ref="char:EOLhyphen"/>mant.</hi>
+            </p>
+            <p>Harder then flint, embrace or ſalute them not; ſhake off the duſt of their houſes, go not amongſt them, who ſay in their hearts, <hi>He delays his coming,</hi> or, <hi>We will not have this man to reign over us;</hi> as though of ſome other nation, we know not what he ſays, moreover <hi>Bring them forth, and ſlay them before me,</hi> as appears by that Prophetical Pa<g ref="char:EOLhyphen"/>rable,
+<pb n="10" facs="tcp:61194:6"/>when as ſuppoſed the King<g ref="char:EOLhyphen"/>dom of God immediately to appear, as it were, even, <hi>Mine eye ſhall not pity them, though they cry aloud, I will not hear them &amp;c.</hi>
+            </p>
+            <p>And therefore that will by no means incline or hearken to thee, with none of them communicate, for all their looks, ſee thou be not weak or daunted, though they a re<g ref="char:EOLhyphen"/>bellious houſe, <hi>verſe</hi> 9. receive and take it into thine heart, and hear it with thine ears, <hi>For all my words ſhalt thou ſpeak unto them, &amp;c.</hi> Look, ſee thou forbear them not, having a watchmans care, ſpeak unto them and tell them, <hi>Thus ſaith the Lord</hi> &amp;c. (<hi>ver.</hi> 11.)</p>
+            <p>Verſe, who then taken up in the Spirit, ſhews how he heard behind
+<pb n="11" facs="tcp:61194:6"/>him from its motion, a voice of a great ruſhing, to remember him; again another warning, as a clock its Alarm before it ſtrikes (cap. 1.) likened to the voice or ſpeech of an Hoſt, thoſe Alarms, or unto the noiſe of great waters their ruſh<g ref="char:EOLhyphen"/>ing, and the like; as compared to the Almighty voice, coming from Heaven: Their wings and wheels one within another, &amp;c. Thus what before he ſaw, now his ears witneſſe bears of it.</p>
+            <p>Much like as when all they were ſitting or aſſembled, Penticoſt when fully come, <hi>Acts</hi> 2. which filled the Houſe where they were, ſuddenly ſuch a ſound, a ruſhing of a mighty wind from Heaven.</p>
+            <p>VVhen <hi>Elias</hi> like alſo this Pro<g ref="char:EOLhyphen"/>phet
+<pb n="12" facs="tcp:61194:7"/>aſcends, lifted up the King of Glory his fiery chariots from above ſent down, drawn by the aforeſaid living creatures four; ſwift as the wind, with their two joynd wings on this ſide, and on that ſide ſparkling, likened to burniſhed braſs, and bur<g ref="char:EOLhyphen"/>ning coals of a brightneſs unſpeak<g ref="char:EOLhyphen"/>able, yet not flying, but went or ran: even the workmanſhip of clocks and watches with their chriſtal covers, ſo dreadfully expreſt; beſides the ſhadow on Dials (theſe the em<g ref="char:EOLhyphen"/>blem of Prophets) not to go back<g ref="char:EOLhyphen"/>ward in the leaſt degree, all their motion ſtrait forward, who when they went or ran, returned not, al<g ref="char:EOLhyphen"/>though in another place ſhews they returned; a contradiction eaſily reco<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ciled: from their recoiling likened to
+<pb n="13" facs="tcp:61194:7"/>the Heavens perpetual motion, in a moment though as a flaſh of light<g ref="char:EOLhyphen"/>ning, retire at the King of Glory his appearance or preſence, Verſe 17. They return'd not when they went, &amp;c.</p>
+            <p>And of this ſacred eſſence; each grain or dram requiſit to weigh it, annexed to a charge thus given up<g ref="char:EOLhyphen"/>on life and death; whether they will, or will not: as afore declared; much more every fathom and quarter, to ſound of this deep: a calling to diſcharge of more con<g ref="char:EOLhyphen"/>ſequence then his voyages: or any Belman or VVatchman, ſhewing what hour of the night, and what paſt: But let that paſs, more<g ref="char:EOLhyphen"/>over whoſe charge, thus (verſe 12.) where heard that voice <hi>Bleſſed
+<pb n="14" facs="tcp:61194:8"/>be the glory of the Lord;</hi> from this place, to wit, in the Church, ſuffi<g ref="char:EOLhyphen"/>cienty manifeſt where the Suns Tabernacle, the clock ſtands, ſha<g ref="char:EOLhyphen"/>dowed under the Tabernacle, as from the head to the ſole of the foot drawn, the Cherubins by wit<g ref="char:EOLhyphen"/>neſſes appearing more then one, ſhews they had round feet; accor<g ref="char:EOLhyphen"/>ding to the Hebrew; and ſtrait with faces and hands ſtretched upward, and what living creatures theſe, not deemed difficult to diſcren, adding when thoſe went theſe went, when thoſe ſtood theſe ſtood, plain e<g ref="char:EOLhyphen"/>nough to be underſtood: beſides Ringers no ſtrange creatures: theſe having under their wings the form of a mans hand; informing clocks their plumits and weights drawn up
+<pb n="15" facs="tcp:61194:8"/>thoſe feet too: together with Rin<g ref="char:EOLhyphen"/>gers their poſture ſtretching their loins, ſtanding on their toes, as by the ſoles of their feet, &amp;c. the length of which eaſie to be taken, unto calves feet likened, to wit, Neats lea<g ref="char:EOLhyphen"/>ther their ſhooes, or Calves leather, each expreſt, as this Prophet por<g ref="char:EOLhyphen"/>tray could, we underſtand.</p>
+            <p>And ſo far for <hi>Aarons</hi> Bells, theſe their ruſhing heard into the utter court: Bells a glory, wherein we ſurpaſſe other Nations.</p>
+            <p>Beſides this for another, (<hi>cap.</hi> 9.) where thoſe ſix men ſtanding, be<g ref="char:EOLhyphen"/>ſide the brazen Altar: Amongſt whom one with a writers inckhorn by his ſide: among the wheels, the Sexton or Clerk that keeps it in order: He for one withall, &amp; ſhew<g ref="char:EOLhyphen"/>ing,
+<pb n="16" facs="tcp:61194:9"/>he reported had the matter as he was commanded or ordered to do, in the next place as refers to the Rolls Office, its ſix Clerks, thoſe reports of theirs by the ſaid Roll or VVrit, that woful lamentation, &amp;c. likewiſe certifies with the inck<g ref="char:EOLhyphen"/>horn, that ſlaughter weapon too wit) the penknife, to beware of cut<g ref="char:EOLhyphen"/>ting mens throats therewith, ſuch doings, &amp;c.</p>
+            <p>Cap. 10. Thus running over the words of it, from the beginning of the Book to the end, as the Alpha<g ref="char:EOLhyphen"/>bet the literal ſence, he that runs may read it, hidden although from Rabbies, Fathers &amp; Modern both, taken with that admiration into conſideration, giving thanks to his Father, <hi>that had made of his great
+<pb n="17" facs="tcp:61194:9" rendition="simple:additions"/>Counſel: He that ſhuts and no man o<g ref="char:EOLhyphen"/>pens; opens and no man ſhuts:</hi> Be<g ref="char:EOLhyphen"/>hold the little book ſeald with the Seven-ſtars; which book holds in his right hand, no man worthy, or ſo wiſe, for all their libraries, ſo much as to behold the out ſide of it; they held at ſuch diſtance, no look<g ref="char:EOLhyphen"/>ing within the ſhadow of thoſe Hi<g ref="char:EOLhyphen"/>erglipical Cherubin Curtains, <hi>The Spirit and the Brides bed,</hi> there<g ref="char:EOLhyphen"/>of to touch a loop, ſo much edge or ſelvedg, like the ſcattered bones out of hope, <hi>cap.</hi> 37. Though here brought bone to bone, as it were, <hi>Live O obſtruſe Oracle;</hi> containing the living creatures, namely, The Holy Ghoſts Heralds, betokening not only this terreſtrial Taberna<g ref="char:EOLhyphen"/>cles clothing of rags, covered with
+<pb n="18" facs="tcp:61194:10" rendition="simple:additions"/>vermin for vermillion, celeſtial forthwith exchanged, with the whole Creations Reſtitution, figu<g ref="char:EOLhyphen"/>red forth; the renewed eſtate of men and Angels, each in its or<g ref="char:EOLhyphen"/>der.</p>
+            <p>But even engines of VVar, the great dreadful days likeneſs, as in his hearing (<hi>cap.</hi> 10.) <hi>O wheel,</hi> cried unto, where he between the wheels, the man in linnen, &amp; match made of linnen, pointing there to great Ord<g ref="char:EOLhyphen"/>nance, even gives fire to them; be<g ref="char:EOLhyphen"/>ware the braſs Piece loud enough, cried whoſe motions ſtrait forward, whether the head looked, mounted on their beril coloured wheels, all put into a colour, compared to the Almighty thundering voice, when he ſpeaks, plainly ſpoken, what a
+<pb n="19" facs="tcp:61194:10"/>noiſe utters when their monſtrous ſhot diſcharged, compaſſed with no little ſmokes and fire, as the appear<g ref="char:EOLhyphen"/>ance of the glory of God, &amp;c. their terror repreſented by the cloud in the day time, and the fiery pillar by night; theſe living creatures like<g ref="char:EOLhyphen"/>wiſe in the Brazen ſerpents likeneſs, when bitten in that maner, whoſe ſouls ſo much loathed the Manna, could not digeſt ſuch light meat (<hi>Num.</hi> 21.)</p>
+            <p>And how light<g ref="char:EOLhyphen"/>ly ſoever eſteemd; nevertheleſs with the Prophets laſt inſtructions, ſhall proceed to give a taſte of it; where ſhewd him the forefront of the houſe eaſtward, all the form of the houſe charged to obſerve it; to be brief, Church-Reformation de<g ref="char:EOLhyphen"/>monſtrates,
+<pb n="20" facs="tcp:61194:11"/>
+               <hi>cap.</hi> 40. with its Cham<g ref="char:EOLhyphen"/>bers, inner Chambers, and outer Courts, namely, the ſeveral Courts of Iuſtice likewiſe to be reformed; as by ſuch exact dimenſions for a rule given, with the Temple and in<g ref="char:EOLhyphen"/>ner Temple, every corner ſurveyed, as of late diſordered Coledges, cal<g ref="char:EOLhyphen"/>led Temples in this City, repaired too, ſet forth in this Map of <hi>Iſralites</hi> days: The holy waters anſwering thereto, like one deep calling to an<g ref="char:EOLhyphen"/>other, tokens of no inferior conſe<g ref="char:EOLhyphen"/>quence, when at ſo low an Ebb, iſſuing from the threſhold that be<g ref="char:EOLhyphen"/>came an ocean for fiſhers, exceed<g ref="char:EOLhyphen"/>ing many from <hi>Eng.</hi> to <hi>Engl.</hi> &amp;c. not to be circumſcribed within ſo narrow limits, reſerved to a larger table.</p>
+            <pb n="21" facs="tcp:61194:11" rendition="simple:additions"/>
+            <p>Have only ſounded the trumpet, here given the word, <hi>O houſe hear, Thus ſaith the Lord, &amp;c. for they a Rebellious, &amp;c. for their ſtanding in contempt, ſerved the ſubpena:</hi> Thus hard and ſlow of hearing, removed the pillow from their elbows: of ſome paſſages and tokens, touching the woful preſent given a touch to call them from the foreruners of his coming, what an over-turning goes before it, whoſe voice as the ſound of many waters, even the floods voice. <hi>Noahs</hi> days 1700. VVhen as repented him he made man, as in this preſent century appears, un pa<g ref="char:EOLhyphen"/>ralleld for ſuch ſurpaſsing ſins and judgements.</p>
+            <p>But going on with the words of his commiſsion to perfect the ſame.
+<pb n="22" facs="tcp:61194:12" rendition="simple:additions"/>
+               <hi>Cap.</hi> 3. <hi>Verſe.</hi> 2.6. <hi>Thou ſhalt not go amongſt them, &amp;c. for they a Rebel<g ref="char:EOLhyphen"/>lious houſe;</hi> a multiplyed phraſe after the maner of clerks, in drawing bills or books; the aforeſaid <hi>as it were,</hi> the word <hi>book</hi> authoriſed otherwiſe, called a bill of divorce, as thus ſtiled the book of <hi>Ezekiel</hi> the Prophet, ſignifying both book and bill.</p>
+            <p>
+               <hi>Cap.</hi> 12. <hi>verſe</hi> 2. thus inlarged, <hi>Thou dwelleſt in the midſt of a Rebel<g ref="char:EOLhyphen"/>lious houſe</hi> (Verſe 3.) <hi>For they a Re<g ref="char:EOLhyphen"/>bellious houſe: though they a Rebellious houſe, &amp;c. And hath not the Rebel<g ref="char:EOLhyphen"/>lious houſe ſaid unto thee, &amp;c. conclu<g ref="char:EOLhyphen"/>ding the matter thus, For in your days, O Rebellious will I ſay the word, and perform it ſaith the Lord,</hi> Verſe 25. Acts 13. <hi>Therefore beware, leſt that fall upon you: behold ye deſpiſers, and
+<pb n="23" facs="tcp:61194:12"/>wonder and periſh ye, for I do a work in your days, which ye ſhall not believe, though one declare it unto you.</hi>
+            </p>
+            <p>VVhere laſt of all, becauſe if the cauſe ſhould depend beyond what was expected, before ripe for a hear<g ref="char:EOLhyphen"/>ing (Thus) a cloud about breadth of a hand appears, <hi>Verſe</hi> 27. <hi>Thus ſaith the Lord, He that heareth, let him hear; and he that forbeareth</hi> (to put in his anſwer) <hi>let him forbear:</hi> for they, &amp;c. alters both mood and number, hereby ſhewing what though ſome be dumb or willful, yet he at leaſt, let him open his mouth, and not with one voice, <hi>Shut him out whileſt he made ſtand at the door knocking, ma<g ref="char:EOLhyphen"/>king as they aſleep were,</hi> bears witneſs, Revelations 22. he that is unjuſt, let him be unjuſt ſtill, and he that is fil<g ref="char:EOLhyphen"/>thy,
+<pb n="24" facs="tcp:61194:13"/>&amp;c. and come ſaith the Spirit and the Bride (revealing before the glorious Throne, our appearing im<g ref="char:EOLhyphen"/>mediate) and let him without de<g ref="char:EOLhyphen"/>lay anſwer that heareth, and ſay come, &amp;c.</p>
+            <p>
+               <hi>The Grace of our Lord, &amp;c. Ezek. cap.</hi> 3.</p>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>Leaſt that come to paſs, <hi>Friend, how cameſt thou in hither, not having a Wedding garment? and he was ſpeech<g ref="char:EOLhyphen"/>leſs &amp;c. without his robe of Parlia<g ref="char:EOLhyphen"/>ment, without doubt (in adding there<g ref="char:EOLhyphen"/>to) many called, but few choſen, an Item to both Houſes. Mat.</hi> 22.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
